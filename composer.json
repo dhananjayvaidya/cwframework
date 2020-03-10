@@ -1,5 +1,5 @@
 {
-    "name": "cwframework",
+    "name": "dhananjayvaidya/cwframework",
     "type": "framework",
     "description": "Web Framework based on MVC in PHP",
     "keywords": ["php","mvc"],
