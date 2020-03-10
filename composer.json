@@ -1,6 +1,6 @@
 {
     "name": "dhananjayvaidya/cwframework",
-    "type": "framework",
+    "type": "library",
     "description": "Web Framework based on MVC in PHP",
     "keywords": ["php","mvc"],
     "homepage": "https://cwframework.com",
